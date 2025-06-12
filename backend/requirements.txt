@@ -1,0 +1,15 @@
+fastapi==0.68.0
+<<<<<<< HEAD
+uvicorn==0.15.0
+motor
+python-multipart==0.0.5
+httpx
+pydantic
+=======
+uvicorn[standard]==0.15.0
+motor==2.5.1
+python-multipart==0.0.5
+emergentintegrations
+httpx
+pydantic
+>>>>>>> 238f04647866703c6854f65090c55c3741b5148b
